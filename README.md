@@ -1,4 +1,4 @@
-This project was done in occordance to the Machine Learning and Parallel Computing module in my Bachelors of Computer Science course.
+This project was done in accordance to the Machine Learning and Parallel Computing module in my Bachelors of Computer Science course.
 
 I have experimented on a Kaggle Dataset by Ahsan Razat named "Used Phones & Tablets Pricing Dataset", where Machine Learning Models were used to predict the prices of second hand phones using the features of that phone.
 
