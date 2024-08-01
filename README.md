@@ -14,6 +14,8 @@ Optimizations were also done depending on which dataset each model performed the
 
 The results of the models obtained an average R2-Score of 0.85. The graphs/plots below has blue points being the actual values and the red points being the predicted values.
 
+This project allowed me to learn a lot on the Data Analysis and Machine Learning process and the development of Machine Learning models.
+
 Their respective results can be seen below:
 # Random Forest
 
